@@ -43,12 +43,12 @@ The general manager of the coffee shop needs a detailed report about the busines
 
  ## Project Insight
   - The three most  profitable products are Ice latte, cold brew, latte.
- - Monday has highest number of transactions.
+ - Monday has highest number of transactions, while friday has the lowest number of transactions.
  - 2023 had the lowest revenue and 2025 had the highest revenue.
  - Istanbul had the highest revenue ratio, while Ankara and Antalya had lowest revenue ratio.
  - Croissant was the top-selling product.
  - Total revenue was $338,180, while total profit was $199,013.
- - 
+ - The pick hours: (11-12), while the off pick hours: (9-10).
 
  ## Final Conclusion
    
