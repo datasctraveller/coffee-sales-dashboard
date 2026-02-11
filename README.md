@@ -20,4 +20,6 @@ The general manager of the coffee shop needs a detailed report about the busines
   - Present the revenue by city.
   - Present the total number of the sales transactions on weekday.
   - Present the most profitable products in the coffee shops
+  - Which office hours were high volume transactions observed in a day?
+  - Present the total revenue and profit by month.
   
