@@ -38,16 +38,18 @@ The general manager of the coffee shop needs a detailed report about the busines
   - Create macros for reflesh and zoom buttons, which are located on the right edge of the dashboard
 
  ## DASHOBOARD
- ![coffee-shop-dashboard](https://github.com/user-attachments/assets/38119904-11e2-4e6f-9b6f-78389d8e2d30)
+  ![coffee-shop-dashboard](https://github.com/user-attachments/assets/420ec36c-a787-4219-8e63-881938553c54)
+
 
  ## Project Insight
-
- ## Final Conclusion
- - The three most  profitable products are Ice latte, cold brew, latte.
+  - The three most  profitable products are Ice latte, cold brew, latte.
  - Monday has highest number of transactions.
  - 2023 had the lowest revenue and 2025 had the highest revenue.
  - Istanbul had the highest revenue ratio, while Ankara and Antalya had lowest revenue ratio.
  - Croissant was the top-selling product.
  - Total revenue was $338,180, while total profit was $199,013.
  - 
+
+ ## Final Conclusion
+   
 
