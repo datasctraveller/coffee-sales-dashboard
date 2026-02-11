@@ -49,6 +49,8 @@ The general manager of the coffee shop needs a detailed report about the busines
  - Croissant was the top-selling product.
  - Total revenue was $338,180, while total profit was $199,013.
  - The pick hours: (11-12), while the off pick hours: (9-10).
+ - Q3(july,august,september) season is the peak months, while april and may are the off-peak months.
+ - The coffee shop has cash flow, with no major fluctuations between seasons.
 
  ## Final Conclusion
    
