@@ -6,4 +6,5 @@ The general manager of the coffee shop needs a detailed report about the busines
 - <a href="https://github.com/datasctraveller/coffee-sales-dashboard/blob/main/coffee_sales_2000_multiyear.xlsx">Dataset</a>
 
 ## Questions (KPIs)
-  -
+  - How many transactions were there in all of the coffee shop branches between 2022 and 2025?
+  - 
