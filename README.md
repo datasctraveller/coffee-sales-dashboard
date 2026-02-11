@@ -25,3 +25,14 @@ The general manager of the coffee shop needs a detailed report about the busines
 
 
   - Dashboard Interaction <a href="https://github.com/datasctraveller/coffee-sales-dashboard/blob/main/coffee-shop-dashboard.JPG">View Dashboard</a>
+
+  ## PROCESS
+  - Check for duplicate values such as transaction_id and other information.
+  - Check data type all of  columns and null values.
+  - Calculate the revenue and profit values
+  - Split date and time data into year, month, day, and hour.
+  - Create pivot tables according to the questions.
+  - Combine all the pivot tables into a dashboard with 3 slider to make it dynamic.
+  - Using the Power query access data from Excel Worbook and check all the data.
+  - Using the Pivot tables to provide meaningful table.
+  - Create macros for reflesh and zoom buttons, which are located on the right edge of the dashboard
