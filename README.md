@@ -53,5 +53,6 @@ The general manager of the coffee shop needs a detailed report about the busines
  - The coffee shop demostrates stable cash flow with no major seasonal fluctuations.  
 
  ## Final Conclusion
+ - 
    
 
