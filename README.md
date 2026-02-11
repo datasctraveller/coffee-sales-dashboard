@@ -36,3 +36,5 @@ The general manager of the coffee shop needs a detailed report about the busines
   - Using the Power query access data from Excel Worbook and check all the data.
   - Using the Pivot tables to provide meaningful table.
   - Create macros for reflesh and zoom buttons, which are located on the right edge of the dashboard
+
+ ## DASHOBOARD
