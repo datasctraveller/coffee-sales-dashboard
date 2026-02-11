@@ -40,3 +40,7 @@ The general manager of the coffee shop needs a detailed report about the busines
  ## DASHOBOARD
  ![coffee-shop-dashboard](https://github.com/user-attachments/assets/38119904-11e2-4e6f-9b6f-78389d8e2d30)
 
+ ## Project Insight
+
+ ## Final Conclusion
+
