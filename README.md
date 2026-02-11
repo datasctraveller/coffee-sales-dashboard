@@ -7,4 +7,17 @@ The general manager of the coffee shop needs a detailed report about the busines
 
 ## Questions (KPIs)
   - How many transactions were there in all of the coffee shop branches between 2022 and 2025?
-  - 
+  - How many products were sold in all of the coffee shop branches between 2022 and 2025?
+  - What was the total revenue between 2022 and 2025?
+  - What was the total profit between 2022 and 2025?
+  - What was profit margin rate between 2022 and 2025?
+  - What was the total cost between 2022 and 2025?
+  - What was the top-selling product?
+  - how much was the average transaction value?
+  - What is the average basket size?
+  - How much was the profit per transaction?
+  - Demonstrate the revenue by year.
+  - Present the revenue by city.
+  - Present the total number of the sales transactions on weekday.
+  - Present the most profitable products in the coffee shops
+  
