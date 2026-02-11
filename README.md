@@ -38,3 +38,5 @@ The general manager of the coffee shop needs a detailed report about the busines
   - Create macros for reflesh and zoom buttons, which are located on the right edge of the dashboard
 
  ## DASHOBOARD
+ ![coffee-shop-dashboard](https://github.com/user-attachments/assets/38119904-11e2-4e6f-9b6f-78389d8e2d30)
+
