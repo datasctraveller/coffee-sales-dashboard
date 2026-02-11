@@ -4,3 +4,6 @@ The general manager of the coffee shop needs a detailed report about the busines
 
 ## Dataset used
 - <a href="https://github.com/datasctraveller/coffee-sales-dashboard/blob/main/coffee_sales_2000_multiyear.xlsx">Dataset</a>
+
+## Questions (KPIs)
+  -
