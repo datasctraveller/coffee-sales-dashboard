@@ -55,7 +55,7 @@ The general manager of the coffee shop needs a detailed report about the busines
  ## Final Conclusion
 According to this dashboard, Friday has the lowest transaction volume.The company will organize a campaign and sales on friday. (7-8),(10-11),(11-12),(14-16) hours have high transaction volume.
 More staff need to work during these time periods. The company organize a campaign during (8-10), (19-20) which are off peak hours. The company is increasing number of products in the product basket to prepare some special sales and campaigns.
-The company will organize a campaign with iced latte and cold brew between April and july. The company will organize a campaign with lattes, americanos, cappicinos between January and March.
+The company will organize a campaign with iced latte and cold brew between April and july. The company will organize a campaign with lattes, americanos, cappicinos between January and March. The company will increase number of products in the basket. Campaigns will organised with at least 3 or 4  products.
 
    
 
