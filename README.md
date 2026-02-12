@@ -53,7 +53,8 @@ The general manager of the coffee shop needs a detailed report about the busines
  - The coffee shop demostrates stable cash flow with no major seasonal fluctuations.  
 
  ## Final Conclusion
-According to this dashboard, Friday has the lowest transaction volume.The company will organize a campaign and sales on friday.
+According to this dashboard, Friday has the lowest transaction volume.The company will organize a campaign and sales on friday. (7-8),(10-11),(11-12),(14-16) hours have high transaction volume.
+More staff need to work during these time periods.
 
    
 
